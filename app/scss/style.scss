@@ -1,0 +1,26 @@
+@import 'vars';
+@import 'libs';
+@import 'fonts';
+
+
+@import 'media';
+
+// @import '../../node_modules/slick-carousel/slick/slick';
+// @import '../../node_modules/magnific-popup/dist/magnific-popup'; If you need this for your new project, open it
+
+html{
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after{
+    box-sizing: inherit;
+}
+
+body{
+    background: #fa9d9d;
+}
+
+
+
